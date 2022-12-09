@@ -2,7 +2,9 @@
 
 Welcome to my Github Page.
 
-I'm [Deepen](https://www.imdpen.com) from [Nepal]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/NP%402x.png) "Nepal" Kathmandu, Nepal.
+I'm [Deepen](https://www.imdpen.com) from  ![Nepal](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/NP%402x.png "Nepal") Kathmandu.
+
+
 
 <!--
 **techies23/techies23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
