@@ -6,7 +6,7 @@ I'm [Deepen](https://www.imdpen.com), Web Developer from Kathmandu, Nepal.
 
 #### Things I'm Fiddling with Currently
 
-![React]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) "React")
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) "React")
 
 
 
