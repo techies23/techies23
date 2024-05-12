@@ -6,14 +6,12 @@ I'm [Deepen](https://www.imdpen.com), Web Developer from Kathmandu, Nepal.
 #### Things I'm Fiddling with Currently
 
 [![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white 'PHP')](https://www.php.net/)
-![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
-![NextJs](https://img.shields.io/badge/nextjs-AA4A44?style=for-the-badge&logo=vercel&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-ea580d?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress Plugins](https://img.shields.io/badge/-WordPress-213fd4?style=for-the-badge&logo=wordpress&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+[![NextJS](https://img.shields.io/badge/nextjs-AA4A44?style=for-the-badge&logo=vercel&logoColor=white 'NextJs')](https://nextjs.org/)
+[![Laravel](https://img.shields.io/badge/-Laravel-ea580d?style=for-the-badge&logo=laravel&logoColor=white 'Laravel')](https://laravel.com/)
+[![WordPess](https://img.shields.io/badge/-WordPress-213fd4?style=for-the-badge&logo=wordpress&logoColor=white 'WordPess Plugins')](https://wordpress.org)
+[![Javascript](https://img.shields.io/badge/-Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white 'Javascript')](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ReactJS](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white 'ReactJs')](https://react.dev/)
+[![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white 'PostgresSQL')](https://www.postgresql.org/)
 
 <!--
 **techies23/techies23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
