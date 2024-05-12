@@ -5,6 +5,7 @@ I'm [Deepen](https://www.imdpen.com), Web Developer from Kathmandu, Nepal.
 
 #### Things I'm Fiddling with Currently
 
+[![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white 'PHP')](https://www.php.net/)
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
 ![NextJs](https://img.shields.io/badge/nextjs-AA4A44?style=for-the-badge&logo=vercel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-ea580d?style=for-the-badge&logo=laravel&logoColor=white)
